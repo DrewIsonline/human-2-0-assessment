@@ -729,10 +729,10 @@ def main():
         "coach_name": "Drew",
         "website": "https://drewis.online",
         "email": "drew@drewis.online",
-        "phone": "+1-555-UPGRADE",
+        "phone": "+1-503-855-6181",
         "brand_message": "You're not broken. You're upgrading. It's Time to get dangerous!",
         "service_price": "$2,497",
-        "calendar_link": "https://calendly.com/drew-human20"
+        "calendar_link": "https://calendly.com/drew-drewis/product-q-a-session"
     }
     
     # API Key - Set your OpenAI API key here
